@@ -1,0 +1,92 @@
+h1, p {
+    font-family: sans-serif;
+  }
+  #head{
+    color: #80696A;
+    font-weight: 5;
+    text-align: center;
+  }
+  h2{
+    font-family: sans-serif;
+    
+  }
+  body{
+    background-color: skyblue;
+  }
+  input{
+    text-align: center;
+    align-content: center;
+    border-radius: 6px;
+    height: 35px;
+    width: 200px;
+  }
+  button{
+    padding: 10px 0px;
+    margin-left: 35px;
+  }
+  #parent{
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+    width: 100%;
+  }
+  #container{
+    width: 90%;
+    height: 80%;
+  }
+  #header1{
+    height: 10vh;
+    background-color: #F8EED4;
+    color: #74576C;
+    font-family: Gill Sans MT;
+    display: flex;
+    justify-content: space-between;
+  }
+  img{
+    height: 60vh;
+    width: 30vw;
+    border:2px solid black;
+    margin-top: 70px;
+    margin-left: 35px;
+    margin-bottom: 0px;
+  }
+  #description{
+    display: flex;
+    justify-content: space-around;
+    background-color: #D9D8EC;
+  }
+  
+  #ingredient{
+    overflow: auto;  
+    height: 50vh;
+    width: 45vw;
+    background-color: #D7D0D0;
+    text-align: left;
+  }
+  #recipe{
+    font-family: sans-serif;
+    overflow: auto;  
+    height: 30vh;
+    width: 45vw;
+    background-color: #D7D0D0;
+    text-align: center;
+  }
+  #heart{
+    float: right;
+    font-size: 30px;
+    padding: 20px 20px 0px 0px;
+    color: black;
+    cursor: pointer;
+  }
+  #left
+  {
+      height: 200vh;
+      width: 80vw;
+  }
+  #right
+  {
+      height: 200vh;
+      width: 100vw;
+  }
+  
